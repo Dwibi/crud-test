@@ -143,13 +143,13 @@ Follow these steps to get started with the project:
 }
 ```
 
-### Update a Book
+### Create a Book
 
 - Method: POST
 - URL:
 
 ```http
-  POST /books/${id}
+  POST /books
 ```
 
 | Body          | Type     | Description   |
